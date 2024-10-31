@@ -1,0 +1,8 @@
+/**
+ * Plugin Name: Netcam Live Stream
+ * Author: Mattia Roccoberton
+ * Author URI: http://blocknot.es
+ * License: GPL3
+ */
+.netcam_live.click { cursor: pointer }
+.netcam_live.freeze { opacity: 0.7 }
